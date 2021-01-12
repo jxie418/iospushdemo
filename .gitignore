@@ -1,0 +1,5 @@
+./PushDemo/GoogleService-Info.plist
+PushDemo/GoogleService-Info.plist
+PushDemo.xcodeproj/project.xcworkspace/*
+PushDemo.xcodeproj/xcuserdata/*
+
